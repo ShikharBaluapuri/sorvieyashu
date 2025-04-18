@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>I'm Sorry Yashu 💔</title>
   <style>
     body {
@@ -110,8 +110,13 @@
   <div class="stars"></div>
 
   <h1>I'm Sorry Yashu 💔</h1>
+
   <p class="typewriter">
-    Hi Yashu I am Truly sorry for how i acted can u pls forgive me i truly love you bohot bohot zyaada i know ive made a lot of mistakes and i promise u ill do better
+    Hi Yashu, I am truly sorry for how I acted. 💔<br>
+    Can you please forgive me? I love you bohot bohot zyaada! 💖<br>
+    I know I’ve made mistakes, but I promise I’ll do better, always. 🫶
+  </p>
+
   <button onclick="alert('Yay! You forgave me 😭💘')">Forgive me, Yashu?</button>
 
   <script>
